@@ -1,0 +1,27 @@
+header > * {
+  vertical-align: middle;
+  display: table-cell;
+}
+.header > div {
+  width: 3.35em;
+  position: relative;
+}
+header > div a {
+  display: block;
+}
+.header-container {
+  background-color: #f2f2f2;
+}
+
+
+/* search form */
+.header > form {
+  width: auto;
+  vertical-align: middle;
+}
+.header > form {
+    padding: .15em 0;
+}
+.header > form, .overlay-header .overlay-title {
+    padding: .15em 0;
+}
